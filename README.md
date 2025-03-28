@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Seb 🌊</h1>
 
-📚🔎 Le Wagon's Software Development Bootcamp graduate. Currently studying and improving my Ruby on Rails and Javascript skills. </p>
+📚🔎 Le Wagon's Software Development Bootcamp graduate. Currently studying and improving my Ruby on Rails and JavaScript skills. </p>
 
 🌎 Feel free to contact me: olivares.heredia@gmail.com
 
