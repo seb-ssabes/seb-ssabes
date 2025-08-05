@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Seb 🌊</h1>
 
-📚🔎 Le Wagon's Software Development Bootcamp graduate. Currently studying and improving my skills in Ruby on Rails and 
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=white)
-</p>
+📚🔎 Le Wagon's Software Development Bootcamp graduate. Currently studying and improving my skills in Ruby on Rails and ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=React&logoColor=white)</p>
 
 🌎 Feel free to contact me: olivares.heredia@gmail.com
 
