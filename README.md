@@ -4,7 +4,7 @@
 
 🎓 Le Wagon's Software Development Bootcamp graduate. 
 
-📚🔎 Currently studying and improving my skills in Ruby on Rails and ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=React&logoColor=white)
+📚🔎 Currently studying and improving my skills in ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=React&logoColor=white)
 
 </p>
 
